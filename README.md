@@ -6,8 +6,8 @@ CHS Capstone 2022-2023
 ## Project Proposal
 
 ### Summary of Project Idea
-Identify the problem and your proposed solution.
-How does this improve the world, community, school?
+Teachers these days are underpaid and underappreciated. Due to chaotic students and the pandemic, Teacher's stress levels are at a all time high. Our solution to this issue is to make a portable Guitar Hero Station for Teachers to use, so that they can take a break from the stress that comes with teaching.
+This helps out our school because the staff's stress levels would decrease, which would lead to a happier learning/teaching environment.
 What are your essential and non-essential requirements?
 How will you measure the success of meeting each requirement?
 ### Timeline
