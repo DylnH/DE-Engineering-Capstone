@@ -7,7 +7,7 @@ CHS Capstone 2022-2023
 
 ### Summary of Project Idea
 Teachers these days are underpaid and underappreciated. Due to chaotic students and the pandemic, Teacher's stress levels are at a all time high. 
-Our solution to this issue is to make a portable Guitar Hero Station for teachers to use, so that they can take a break from the stress that comes with teaching. This helps out our school because this would cause the stress levels of the teachers to decrease, which would lead to a happier learning/teaching environment.
+Our solution to this issue is to make a portable Guitar Hero Station for teachers to use, so that they can take a break from the stress that comes with teaching. This helps out our school because this would cause the stress levels of the teachers to decrease, which would lead to a happier learning/teaching environment. We are satisfied with our produce, if we are able to make multiple working controllers that check off the essential requirments, as well as fulfill a teachers inner desire to shred on guitar.
 
 Essential Requirements Include...
 
@@ -25,7 +25,6 @@ Non-Essential Requirements Include...
 - Use the new equipment in the Sigma Lab
 - Make a controller that's Console Compatible
 
-How will you measure the success of meeting each requirement?
 ### Timeline
 How do you plan on meeting each of your requirements?
 In what order will you complete each step?
