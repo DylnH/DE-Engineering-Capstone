@@ -30,9 +30,12 @@ How do you plan on meeting each of your requirements?
 In what order will you complete each step?
 How much time do you anticipate each step will take (THIS IS IMPORTANT!)?
 ### Materials/Budget
-What type of micro-controller do you plan on using?
-What materials from the lab will you be able to use?
-What materials and costs do you anticipate needing to complete the project?
+
+- Arduino Micro Controller
+- Wires adn Breadboard
+- 3D printed Material
+- Acrylic
+- 
 ### Deliverables
 What will you be turning at the end of the year?
 Do you plan on also submitting a Technical Report, Edited Video, or giving a Presentation?
