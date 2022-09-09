@@ -26,9 +26,7 @@ Non-Essential Requirements Include...
 - Make a controller that's Console Compatible
 
 ### Timeline
-How do you plan on meeting each of your requirements?
-In what order will you complete each step?
-How much time do you anticipate each step will take (THIS IS IMPORTANT!)?
+We plan on accomplishing at least one facet of the project each week, as well as documentation. We'll gives ourselves leeway if certain things turn out to be harder than previously thought. We can complete each step by making the controllers top to bottom. Headstock, frets, neck, body, etc. If we narrow down each step by parts (one week, we'll work on LEDs), we could complete a step weekly.
 ### Materials/Budget
 
 - Arduino Pro Micro Controller 2x
