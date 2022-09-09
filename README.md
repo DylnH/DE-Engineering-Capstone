@@ -31,10 +31,11 @@ In what order will you complete each step?
 How much time do you anticipate each step will take (THIS IS IMPORTANT!)?
 ### Materials/Budget
 
-- Arduino Micro Controller
-- Wires adn Breadboard
+- Arduino Pro Micro Controller 2x
+- Wires and Breadboard
 - 3D printed Material
 - Acrylic
+- Mechanical Buttons
 - 
 ### Deliverables
 What will you be turning at the end of the year?
