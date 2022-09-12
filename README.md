@@ -30,6 +30,7 @@ We plan on accomplishing at least one facet of the project each week, as well as
 ### Materials/Budget
 
 - Arduino Pro Micro Controller 2x
+https://envistiamall.com/products/pro-micro-atmega32u4-5v-16mhz-leonardo-arduino-compatible
 - Wires and Breadboard
 - 3D printed Material
 - Acrylic
