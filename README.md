@@ -29,8 +29,7 @@ Non-Essential Requirements Include...
 We plan on accomplishing at least one facet of the project each week, as well as documentation. We'll gives ourselves leeway if certain things turn out to be harder than previously thought. We can complete each step by making the controllers top to bottom. Headstock, frets, neck, body, etc. If we narrow down each step by parts (one week, we'll work on LEDs), we could complete a step weekly.
 ### Materials/Budget
 
-- Arduino Pro Micro Controller 2x
-https://envistiamall.com/products/pro-micro-atmega32u4-5v-16mhz-leonardo-arduino-compatible
+- [Arduino Pro Micro Controller 2x](https://envistiamall.com/products/pro-micro-atmega32u4-5v-16mhz-leonardo-arduino-compatible)
 - Wires and Breadboard
 - 3D printed Material
 - Acrylic
