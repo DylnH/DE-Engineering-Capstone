@@ -3,7 +3,7 @@ CHS Capstone 2022-2023
 
 # Guitar Hero Controller
 
-![image](https://user-images.githubusercontent.com/57632909/190243414-d1052cd8-8749-4b96-88ec-7982bfbf686f.png)
+<img src="" width="325">
 
 ## Project Proposal
 
