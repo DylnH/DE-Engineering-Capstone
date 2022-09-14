@@ -40,4 +40,5 @@ We plan on accomplishing at least one facet of the project each week, as well as
 ### Deliverables
 We will give a Presentation and Demo to present our finish product. We'll show how it works, show to process, and teach the audience every they would want to know about our creation. after that, we'll show it working and our new huge a** monitors.
 ### References
-There are a hundred different ways to do references and I'm not going to tell you which one to use (Links to an external site.), but you need references and those should be cited within your paper.  If this proposal is any good, it will be rich in research and technical details.  Those will come from sources and those sources need to be cited.  
+
+- [3D Models for Reference](https://www.printables.com/model/227773-les-paul-clone-hero-controller)
