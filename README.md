@@ -43,4 +43,4 @@ We will give a Presentation and Demo to present our finish product. We'll show h
 
 - [3D Models for Reference](https://www.printables.com/model/227773-les-paul-clone-hero-controller)
 - [Modded GH Controller for Inspiration](https://www.youtube.com/watch?v=94CGaIXZXsg)
-- [What is Haptic Feedback](https://www.youtube.com/watch?v=cK9qsdLf58I)
+- [What is Haptic Feedback?](https://www.youtube.com/watch?v=cK9qsdLf58I)
