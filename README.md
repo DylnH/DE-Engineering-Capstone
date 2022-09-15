@@ -47,3 +47,5 @@ We will give a Presentation and Demo to present our finish product. We'll show h
 
 ## CAD Documentation
 
+<img src="CADGuitar.png?raw=true" width="325">
+This is the first Onshape model of the guitar. It only shows the top view of the guitar but had all the necessary holes cut for various buttons.
