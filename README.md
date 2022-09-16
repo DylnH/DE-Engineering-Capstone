@@ -32,7 +32,8 @@ We plan on accomplishing at least one facet of the project each week, as well as
 ### Materials/Budget
 
 - [Arduino Pro Micro Controller 2x](https://envistiamall.com/products/pro-micro-atmega32u4-5v-16mhz-leonardo-arduino-compatible) $9
-- [Low Profile mechanical keyboard switches (1 Pack of 10)](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6337) $9 
+- [Low Profile mechanical keyboard switches (1 Pack of 10)](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6337) $9
+- .[USB Game Controller](https://www.amazon.com/Reyann-Arcade-Encoder-Joystick-Fighting/dp/B00UUROWWK/ref=sr_1_1?crid=UFCP2YXG2SFS&keywords=usb+game+controller+board&qid=1663353796&sprefix=usb+game+controller%2Caps%2C42&sr=8-1)
 - 3D printed Material
 - Resin printed Material
 - Acrylic
