@@ -44,13 +44,13 @@ We will give a Presentation and Demo to present our finish product. We'll show h
 
 ### Plan/Jobs
 
-#### Dylan
+#### Dylan will work on...
 - Internals of Controller.
 - Coding
 - Mild CAD Work
 - Assembly
 
-#### Owen
+#### Owen will work on...
 - Externals of Controller
 - CAD
 - Cosmetic/Design
