@@ -35,7 +35,7 @@ We plan on accomplishing at least one facet of the project each week, as well as
 - [Low Profile mechanical keyboard switches (1 Pack of 10)](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6337) $9 
 - 3D printed Material
 - Acrylic
-- Mechanical Buttons
+- Wires and Breadboard
 - USB Cables
 ### Deliverables
 We will give a Presentation and Demo to present our finish product. We'll show how it works, show to process, and teach the audience every they would want to know about our creation. after that, we'll show it working and our new huge a** monitors.
