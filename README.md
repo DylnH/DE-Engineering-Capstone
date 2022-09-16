@@ -34,6 +34,7 @@ We plan on accomplishing at least one facet of the project each week, as well as
 - [Arduino Pro Micro Controller 2x](https://envistiamall.com/products/pro-micro-atmega32u4-5v-16mhz-leonardo-arduino-compatible) $9
 - [Low Profile mechanical keyboard switches (1 Pack of 10)](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6337) $9 
 - 3D printed Material
+- Resin printed Material
 - Acrylic
 - Wires and Breadboard
 - USB Cables
