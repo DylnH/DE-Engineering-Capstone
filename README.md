@@ -41,6 +41,21 @@ We plan on accomplishing at least one facet of the project each week, as well as
 - USB Cables
 ### Deliverables
 We will give a Presentation and Demo to present our finish product. We'll show how it works, show to process, and teach the audience every they would want to know about our creation. after that, we'll show it working and our new huge a** monitors.
+
+### Plan/Jobs
+
+#### Dylan
+- Internals of Controller.
+- Coding
+- Mild CAD Work
+- Assembly
+
+#### Owen
+- Externals of Controller
+- CAD
+- Cosmetic/Design
+- Assembly
+
 ### References
 
 - [3D Models for Reference](https://www.printables.com/model/227773-les-paul-clone-hero-controller)
