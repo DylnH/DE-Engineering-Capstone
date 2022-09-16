@@ -31,9 +31,8 @@ Non-Essential Requirements Include...
 We plan on accomplishing at least one facet of the project each week, as well as documentation. We'll gives ourselves leeway if certain things turn out to be harder than previously thought. We can complete each step by making the controllers top to bottom. Headstock, frets, neck, body, etc. If we narrow down each step by parts (one week, we'll work on LEDs), we could complete a step weekly.
 ### Materials/Budget
 
-- [Arduino Pro Micro Controller 2x](https://envistiamall.com/products/pro-micro-atmega32u4-5v-16mhz-leonardo-arduino-compatible) $9
+- [Arduino Leonardo Micro 2x](https://www.tinyosshop.com/index.php?route=product/product&product_id=930) $17.6
 - [Low Profile mechanical keyboard switches (1 Pack of 10)](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6337) $9
-- [USB Game Controller](https://www.amazon.com/Reyann-Arcade-Encoder-Joystick-Fighting/dp/B00UUROWWK/ref=sr_1_1?crid=UFCP2YXG2SFS&keywords=usb+game+controller+board&qid=1663353796&sprefix=usb+game+controller%2Caps%2C42&sr=8-1)$12
 - 3D printed Material
 - Resin printed Material
 - Acrylic
