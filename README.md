@@ -73,7 +73,21 @@ We will give a Presentation and Demo to present our finish product. We'll show h
 - [Modded GH Controller for Inspiration](https://www.youtube.com/watch?v=94CGaIXZXsg)
 - [What is Haptic Feedback?](https://www.youtube.com/watch?v=cK9qsdLf58I)
 
-## CAD Documentation
+_______________________________________________________________________________________________________________________________________________________________
+
+## Documentation
+
+### Week 0
+
+### Weekly Update.
+
+- This week, we researched and found different ways to make/modify Guitar Hero Controllers
+- We've decided on what some of the materials should be. (what parts should be 3D printed and laser cut)
+- We've found a few resources that shows how others created their own controllers. Plus a source that explains how haptic feedback works.
+- Nothing has gone wrong so far because there hasn't enough time for things to go wrong.
+- Next week, we'll expand on our proposal, to make it more detailed.
+
+### CAD Documentation
 
 <img src="CADGuitar.png?raw=true" width="325">
 This is the first Onshape model of the guitar. It only shows the top view of the guitar but had all the necessary holes cut for various buttons.
