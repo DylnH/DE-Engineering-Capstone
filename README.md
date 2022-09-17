@@ -32,9 +32,13 @@ We plan on accomplishing at least one facet of the project each week, as well as
 
 #### Rough Idea
 Week 1 - Planning
+
 Week 2 - Buttons
+
 Week 3 - Buttons Pt 2.
+
 Week 4 - ???
+
 Week 5 - ???
 
 ### Materials/Budget
