@@ -29,6 +29,14 @@ Non-Essential Requirements Include...
 
 ### Timeline
 We plan on accomplishing at least one facet of the project each week, as well as documentation. We'll gives ourselves leeway if certain things turn out to be harder than previously thought. We can complete each step by making the controllers top to bottom. Headstock, frets, neck, body, etc. If we narrow down each step by parts (one week, we'll work on LEDs), we could complete a step weekly.
+
+#### Rough Idea
+Week 1 - Planning
+Week 2 - Buttons
+Week 3 - Buttons Pt 2.
+Week 4 - ???
+Week 5 - ???
+
 ### Materials/Budget
 
 - [Arduino Leonardo Micro 2x](https://www.tinyosshop.com/index.php?route=product/product&product_id=930) $17.6
