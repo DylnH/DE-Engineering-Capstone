@@ -50,8 +50,8 @@ Week 5 - ???
 - Acrylic
 - Wires and Breadboard
 - USB Cables
-### Deliverables
-We will give a Presentation and Demo to present our finish product. We'll show how it works, show to process, and teach the audience every they would want to know about our creation. after that, we'll show it working and our new huge a** monitors.
+### Deliverables/Measuring Success
+We will give a Presentation and Demo to present our finish product. We'll show how it works, show to process, and teach the audience every they would want to know about our creation. after that, we'll show it working and our new huge a** monitors. If we can create a controller that works, and enjoyable to use, then we consider that a success.
 
 ### Plan/Jobs
 
