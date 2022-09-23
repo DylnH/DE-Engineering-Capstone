@@ -92,3 +92,7 @@ ________________________________________________________________________________
 <img src="CADGuitar.png?raw=true" width="325">
 
 - This is the first Onshape model of the guitar. It only shows the top view of the guitar but had all the necessary holes cut for various buttons.
+
+### Code Documentation
+
+- [Sudo Code](https://docs.google.com/document/d/1tnJP5Gdml1hMjWnqwg-ny66CEVMGbJx_VUMggTS5P58/edit?usp=sharing)
