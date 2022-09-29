@@ -96,3 +96,13 @@ ________________________________________________________________________________
 ### Code Documentation
 
 - [Sudo Code](https://docs.google.com/document/d/1tnJP5Gdml1hMjWnqwg-ny66CEVMGbJx_VUMggTS5P58/edit?usp=sharing)
+
+_________________________________________________________________________________________________________________________________________________________________
+
+### Week 1
+
+#### Customer Meeting Summary
+
+- Our meeting with our Customer (Mr. Helmstetter
+
+
