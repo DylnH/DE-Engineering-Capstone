@@ -103,6 +103,6 @@ ________________________________________________________________________________
 
 #### Customer Meeting Summary
 
-- Our meeting with our Customer (Mr. Helmstetter
+- Our meeting with our Customer (Mr. Helmstetter) was very productive.
 
 
