@@ -103,6 +103,4 @@ ________________________________________________________________________________
 
 #### Customer Meeting Summary
 
-- Our meeting with our Customer (Mr. Helmstetter) was very productive.
-
-
+- Our meeting with our Customer (Mr. Helmstetter) was very productive. We have more Of a thought out plan and we've thought more ideas we can implement into our project. We are planning on making a very basic prototype that will be due before Thanksgiving. Our goal then, is to learn how to make a USD device. As well as having a working controller using 9 to 10 low profile keyboard buttons and an Arduino Leonardo Micro. If we are able to make a working controller by then, we can continue to add on haptic feedback, LED control, and a more advanced shell to contain the brain of the controller. Additional ideas include haing an interchangeable body plate to change the design of the guitar. We are also thinking about increasing the amount of 3D/resin material and machined parts to the final assembly to make it more durable. Lastly, another test we could use to test the quality of our controller, suggested by Mr. Helmstetter, would be to give them to his kids to test (for durability). This is sopposed to be a better controller than the original, so why not put our craftmanship to the test.
