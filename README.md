@@ -110,4 +110,6 @@ ________________________________________________________________________________
 <img src="CADGuitar2.png?raw=true" width="450">
 <img src="CADGuitarButtons.png?raw=true" width="450">
 
+This week we have put a lot of work into the CAD guitar. We have finished the shell of the guitar and are still working on the buttons throughout the guitar. We plan to make the entire neck and head of the guitar out of acrylic as well as the top and bottom of the body. We will need to use a 3D printer for the sides of the body and the various buttons and button holders. Our next step is to finish the rest of the buttons and then put this into action and create a first model.
+
 
