@@ -125,7 +125,41 @@ This week we have put a lot of work into the CAD guitar. We have finished the sh
 - 1 Potentiometer for Whammy Bar
 - 1 USB Cable
 
-<details><summary>Theoretical Code</summary>
+<details><summary>Theoretical Code For Controller</summary>
+ 
+ 
+ ``` Arduino
+G = Green Button
+R = Red Button
+Y = Yellow Button
+B = Blue Button
+O = Orange Button
+SP = Star Power
+
+G = #00FF00
+R = #FF0000
+Y = #FFFF00
+B = #0000FF
+O = #FFA500
+
+When LED is ON, Toggle Brightness (Ripple Effect)
+If Whammy bar is used, Toggle brightness (Fade in, Fade out)
+
+If One Button is Pressed, 100% LED #__
+If Two Buttons are Pressed 50% LED #__ and 50% LED #__
+If Three Buttons are Pressed 30% LED #__, 30% LED #__, and 30% LED #__
+If Four Buttons are Pressed 25% LED #__, 25% LED #__, 25% LED #__, and 25% LED #__
+If Five Buttons are Pressed, 20% LED #__ 20% LED #__, 20% LED #__, 20% LED #__, and 20% LED #__
+
+If Star Power is Pressed, 100% LED #7DF9FF for 15 sec.
+
+```
+ 
+</details>
+
+
+
+<details><summary>Theoretical Code For Controller</summary>
  
  
  ``` Arduino
