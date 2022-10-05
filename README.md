@@ -125,7 +125,7 @@ This week we have put a lot of work into the CAD guitar. We have finished the sh
 - 1 Potentiometer for Whammy Bar
 - 1 USB Cable
 
-<details><summary>Code</summary>
+<details><summary>Theoretical Code</summary>
  
  
  ``` Arduino
