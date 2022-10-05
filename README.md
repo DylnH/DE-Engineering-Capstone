@@ -125,8 +125,6 @@ This week we have put a lot of work into the CAD guitar. We have finished the sh
 - 1 Potentiometer for Whammy Bar
 - 1 USB Cable
 
-- [Possible source of code that we should learn from](https://www.makeuseof.com/tag/make-custom-shortcut-buttons-arduino/)
-
 <details><summary>Theoretical LED Sudo Code</summary>
  
  ``` Arduino
@@ -251,3 +249,5 @@ void loop() {
 ```
  
 </details>
+
+- [Possible source of code that we should learn from](https://www.makeuseof.com/tag/make-custom-shortcut-buttons-arduino/)
