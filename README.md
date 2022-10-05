@@ -115,12 +115,13 @@ This week we have put a lot of work into the CAD guitar. We have finished the sh
 ### Code Documentation
 
 #### Wiring Diagram for controller
-<img src="Wiring%20Diagram%201%20(2).png?raw=true" width="450">
+<img src="Wiring%20Diagram%201%20(2).png?raw=true" width="300">
 
 - 5 Main Buttons on Fretboard for playing
 - 2 or 1 Buttons for Strum Bar
 - 2 Buttons for Generic use. *Customizable
 - 1 LED strip
+- 1 Motor for Haptic Feedback
 - 1 Potentiometer for Whammy Bar
 - 1 USB Cable
 
