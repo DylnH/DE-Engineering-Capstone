@@ -249,5 +249,3 @@ void loop() {
 ```
  
 </details>
-
-- [Possible source of code that we should learn from](https://www.makeuseof.com/tag/make-custom-shortcut-buttons-arduino/)
