@@ -44,7 +44,7 @@ Week 5 - ???
 ### Materials/Budget
 
 - [Arduino Leonardo Micro 2x](https://www.tinyosshop.com/index.php?route=product/product&product_id=930) $17.6
-- [Low Profile mechanical keyboard switches (1 Pack of 10)](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6337) $9
+- [Low Profile mechanical keyboard switches (1 Pack of 10)](https://www.adafruit.com/product/5113) $11
 - 3D printed Material
 - Resin printed Material
 - Acrylic
