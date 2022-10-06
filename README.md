@@ -254,3 +254,5 @@ void loop() {
 ```
  
 </details>
+
+ This week on the Coding side of things, We created the wiring diagram for our project. 5 fretboard buttons, two/one button for the strum bar, 2 buttons for custom use, 1 potentiometer for the whammy bar, 1 LED strip, and 1 motor for haptic feedback. We also have two rough drafts of code (1 sudo, 1 theoretical). Since Clone Hero (the software we using to run guitar hero) includes all the nessesary components to assign buttons purpose, all we need to do code the board to recognize that a button is being pressed.
