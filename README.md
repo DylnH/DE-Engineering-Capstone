@@ -264,6 +264,7 @@ ________________________________________________________________________________
 
 - We are making preparations to buy certain materials that are needed for our project.
 - [Here's]( https://www.makeuseof.com/tag/make-custom-shortcut-buttons-arduino/) is a very useful link on the code side of things. I've been studying the code of this for a good amount of time and I feel very confident that I'll be able to complete the code with minimal stress. The only big obstacle will be the haptic feedback. making a working controller will take less time.
+- For our Project Presentation, we don't nessesarily need help with it, but any advice will be happily received
 
 #### Materials We need Purchased
 - [Arduino Leonardo Micro 2x](https://www.tinyosshop.com/index.php?route=product/product&product_id=930) $17.6
