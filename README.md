@@ -256,3 +256,14 @@ void loop() {
 </details>
 
  This week on the Coding side of things, We created the wiring diagram for our project. 5 fretboard buttons, two/one button for the strum bar, 2 buttons for custom use, 1 potentiometer for the whammy bar, 1 LED strip, and 1 motor for haptic feedback. We also have two rough drafts of code (1 sudo, 1 theoretical). Since Clone Hero (the software we using to run guitar hero) includes all the nessesary components to assign buttons purpose, all we need to do code the board to recognize that a button is being pressed. Also [here's]( https://www.makeuseof.com/tag/make-custom-shortcut-buttons-arduino/) a link that will possibly help us with coding each button. This link is for creating a custom keyboard, but our project uses a lot of the same mechanics, so this link could be very useful.
+_____________________________________________________________________________________________________________________________________________________________________
+
+### Week 4
+
+#### Updates
+
+- We are making preparations to buy certain materials that are needed for our project.
+##### Links
+- [Arduino Leonardo Micro 2x](https://www.tinyosshop.com/index.php?route=product/product&product_id=930) $17.6
+- [Low Profile mechanical keyboard switches (1 Pack of 10)](https://www.adafruit.com/product/5113) $11
+- [Switch Sockets](https://www.adafruit.com/product/5118) $2.50
