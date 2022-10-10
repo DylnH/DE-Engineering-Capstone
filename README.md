@@ -263,7 +263,9 @@ ________________________________________________________________________________
 #### Updates
 
 - We are making preparations to buy certain materials that are needed for our project.
-##### Links
+#### Links
 - [Arduino Leonardo Micro 2x](https://www.tinyosshop.com/index.php?route=product/product&product_id=930) $17.6
 - [Low Profile mechanical keyboard switches (1 Pack of 10)](https://www.adafruit.com/product/5113) $11
 - [Switch Sockets](https://www.adafruit.com/product/5118) $2.50
+ 
+- [Here's]( https://www.makeuseof.com/tag/make-custom-shortcut-buttons-arduino/) is a very useful link on the code side of things. I've been studying the code of this for a good amount of time and I feel very confident that I'll be able to complete the code with minimal stress. The only big obstacle will be the haptic feedback. making a working controller will take less time.
