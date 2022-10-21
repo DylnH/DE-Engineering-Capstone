@@ -270,3 +270,8 @@ ________________________________________________________________________________
 - [Arduino Leonardo Micro 2x](https://www.tinyosshop.com/index.php?route=product/product&product_id=930) $17.6
 - [Low Profile mechanical keyboard switches (1 Pack of 10)](https://www.adafruit.com/product/5113) $11
 - [Switch Sockets](https://www.adafruit.com/product/5118) $2.50
+
+#### Proposal 22-23
+
+- [Presentation](https://docs.google.com/presentation/d/1n1Pbn0x4cWevT-eCZHREeqqYKXrQWYKC5gd1DO4TNuc/edit?usp=sharing)
+- [Resubmission](https://docs.google.com/document/d/1zOA7xf7xfLtzhUtiDT5bA15tuGb_8Q_fKn9zasG0iGQ/edit?usp=sharing)
