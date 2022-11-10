@@ -283,6 +283,8 @@ ________________________________________________________________________________
 #### Code
 
 ##### We have three new links that help with our haptic feedback
-- [LED Strips](https://docs.google.com/presentation/d/1n1Pbn0x4cWevT-eCZHREeqqYKXrQWYKC5gd1DO4TNuc/edit?usp=sharing)
-- [Motor Control](https://docs.google.com/presentation/d/1n1Pbn0x4cWevT-eCZHREeqqYKXrQWYKC5gd1DO4TNuc/edit?usp=sharing)
-- [Standard LEDs](https://docs.google.com/presentation/d/1n1Pbn0x4cWevT-eCZHREeqqYKXrQWYKC5gd1DO4TNuc/edit?usp=sharing)
+- [LED Strips](https://learn.adafruit.com/rgb-led-strips/arduino-code)
+- [Motor Control](https://circuitdigest.com/microcontroller-projects/dc-motor-speed-control-using-arduino-and-potentiometer)
+- [Standard LEDs](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)
+ 
+ ##### The Basic Code is mostly complete, but it needs testing. We will do that in a few days.
