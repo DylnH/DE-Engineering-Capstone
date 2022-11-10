@@ -275,3 +275,14 @@ ________________________________________________________________________________
 
 - [Presentation](https://docs.google.com/presentation/d/1n1Pbn0x4cWevT-eCZHREeqqYKXrQWYKC5gd1DO4TNuc/edit?usp=sharing)
 - [Resubmission](https://docs.google.com/document/d/1zOA7xf7xfLtzhUtiDT5bA15tuGb_8Q_fKn9zasG0iGQ/edit?usp=sharing)
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+### Week 5/6
+
+#### Code
+
+##### We have three new links that help with our haptic feedback
+- [LED Strips](https://docs.google.com/presentation/d/1n1Pbn0x4cWevT-eCZHREeqqYKXrQWYKC5gd1DO4TNuc/edit?usp=sharing)
+- [Motor Control](https://docs.google.com/presentation/d/1n1Pbn0x4cWevT-eCZHREeqqYKXrQWYKC5gd1DO4TNuc/edit?usp=sharing)
+- [Standard LEDs](https://docs.google.com/presentation/d/1n1Pbn0x4cWevT-eCZHREeqqYKXrQWYKC5gd1DO4TNuc/edit?usp=sharing)
