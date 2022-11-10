@@ -287,4 +287,4 @@ ________________________________________________________________________________
 - [Motor Control](https://circuitdigest.com/microcontroller-projects/dc-motor-speed-control-using-arduino-and-potentiometer)
 - [Standard LEDs](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)
  
- ##### The Basic Code is mostly complete, but it needs testing. We will do that in a few days.
+ ##### The Basic Code is mostly complete, but it needs testing. We will do that in a few days. We are also on track on the goal toward making a working prototype by thanksgiving break. For next week, We'll have a whole week to troubleshoot and get it working.
