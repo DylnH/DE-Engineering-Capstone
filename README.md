@@ -293,3 +293,12 @@ ________________________________________________________________________________
  # Important Update
  
 ### We apologize for the disruption in our GitHub documentation due to the temporary unavailability of our customer. While we acknowledge that this is not a strong excuse, we sincerely hope you can understand the situation and be slightly lenient in evaluating our performance. We take full responsibility for the unintended pause and assure you that we are working diligently to rectify the issue and resume our documentation efforts as soon as our custumer returns. Your understanding and forgiveness in this matter would be greatly appreciated, and we remain committed to providing you with the highest level of service in the future.
+
+ 
+ # Project Conclusion
+ 
+ ### Things you'll need
+ 
+- [Clone Hero Download](https://clonehero.net/)
+- [How to Video #1](https://www.youtube.com/watch?v=LOPH5o6lFew)
+- [How to Video #2](https://www.youtube.com/watch?v=OpTY7XSlr08)
